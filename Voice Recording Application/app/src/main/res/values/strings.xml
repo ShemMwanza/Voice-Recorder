@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Voice Recorder</string>
+    <string name="start">Record</string>
+    <string name="record">record</string>
+    <string name="textview">TextView</string>
+    <string name="filename">Filename</string>
+    <string name="Nothing" />
+    <string name="recording_name">Recording Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_playing">Not Playing</string>
+    <string name="complete">Recording Complete</string>
+    <string name="playing">Playing</string>
+    <string name="_05_00">05:00</string>
+</resources>
